@@ -1,5 +1,5 @@
-``` 1. Python Programming for Data Science ``` 
-``` * Çalışma Ortamı Ayarları
+``` **1. Python Programming for Data Science**
+* Çalışma Ortamı Ayarları
 * Veri Yapıları
 * Fonksiyonlar
 * Koşullar & Döngüler
