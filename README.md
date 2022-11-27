@@ -1,5 +1,5 @@
 ``` 
-# [Python Programming for Data Science] (https://github.com/pandao/editor.md "Heading link"](https://github.com/yrlmzmerve/Data-Scientist-Path/tree/main/1.%20Python%20Programming%20for%20Data%20Science/Homework)
+# [Python Programming for Data Science](https://github.com/yrlmzmerve/Data-Scientist-Path/tree/main/1.%20Python%20Programming%20for%20Data%20Science)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
