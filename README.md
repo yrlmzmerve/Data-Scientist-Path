@@ -10,4 +10,5 @@
 > Python ile Veri Analizi: NumPy
 > Python ile Veri Analizi: Pandas
 > Python ile Veri Analizi: Veri Görselleştirme
-> Python ile Veri Analizi: Gelişmiş Fonksiyonel Keşifçi Veri Analizi ``` 
+> Python ile Veri Analizi: Gelişmiş Fonksiyonel Keşifçi Veri Analizi 
+``` 
