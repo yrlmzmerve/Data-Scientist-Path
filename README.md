@@ -1,4 +1,4 @@
-Python Programming for Data Science
+1. Python Programming for Data Science
 * Çalışma Ortamı Ayarları
 * Veri Yapıları
 * Fonksiyonlar
