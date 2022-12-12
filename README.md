@@ -14,3 +14,5 @@
 ``` 
 
 [Proje : Rule Based Classification](https://github.com/yrlmzmerve/Data-Scientist-Path/tree/main/1.%20Python%20Programming%20for%20Data%20Science/Proje)
+
+### 2. CRM
